@@ -1,6 +1,6 @@
 <h1><img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30"/> Hi there, I'm nad0n</h1>
 
-<img align="right" alt="nad0n's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nad0nb&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="right" alt="nad0n's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nad0n&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=apoow3b&theme=tokyonight)
 - 💻 I am a young student and I live in France.
