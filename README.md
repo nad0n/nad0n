@@ -69,4 +69,4 @@
 
 ---
 
-![Banner](https://i.pinimg.com/originals/8a/78/53/8a7853a39f37df16dc5ccff619e6c654.gif)
+![Banner](https://cdn.discordapp.com/attachments/957392833147453510/957572457672376341/a1f730ed31c2ef1cd09da7ff39a3c9a0.gif)
