@@ -15,8 +15,10 @@
 
 ---
 
-https://lanyard-profile-readme.vercel.app/api/269708621187776513/
+<p align="center">
 
+<img src="https://lanyard-profile-readme.vercel.app/api/269708621187776513/"/>
+  <!--     <br>
 ---
 
 ![Banner](https://cdn.discordapp.com/attachments/957392833147453510/957572457672376341/a1f730ed31c2ef1cd09da7ff39a3c9a0.gif)
